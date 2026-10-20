@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+
+# Expo / native
+expo-env.d.ts
+.kotlin/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
