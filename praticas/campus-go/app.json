@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CampusGo",
+    "slug": "campus-go",
+    "version": "1.0.0",
+    "scheme": "campusgo",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
